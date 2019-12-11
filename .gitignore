@@ -1,0 +1,9 @@
+/Pods
+/Podfile.lock
+/AECardboard.xcodeproj/xcuserdata
+/AECardboard.xcodeproj/project.xcworkspace/xcuserdata/
+/AECardboard.xcworkspace/xcuserdata
+/Android/obj/
+/Android/bin/
+/Android/gen/
+
